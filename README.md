@@ -105,24 +105,13 @@ E2E テスト / CI
 
 ---
 
-Author
-UFO
+## Author
+- UFO
+- https://github.com/ippei0110
+- Repo: https://github.com/ippei0110/expo-audius-player
 
-<GitHub URL（任意）>
-
----
-
-# 仕上げの“見せ方”セット（これだけやると強い）
-## 1) スクショを3枚だけ用意（最小で刺さる）
-`docs/screenshots/` に置く（ファイル名はこれがおすすめ）
-- `01_home.png`
-- `02_player.png`
-- `03_queue.png`
-
----
-
-READMEに貼るなら（GitHubなら相対パスでOK）：
 ## Screenshots
 ![Home](docs/screenshots/01_home.png)
-![Player](docs/screenshots/02_player.png)
+![Search](docs/screenshots/02_search.png)
 ![Queue](docs/screenshots/03_queue.png) 
+![Player](docs/screenshots/04_player.png) 
